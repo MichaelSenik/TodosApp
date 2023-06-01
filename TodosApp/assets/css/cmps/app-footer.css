@@ -1,9 +1,0 @@
-.app-footer {
-    background-color: var(--clr2);
-    color: var(--clr3);
-    padding-block: 1em;
-}
-
-.app-footer h3 {
-    margin-block-end: .3em;
-}
