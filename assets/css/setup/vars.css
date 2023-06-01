@@ -1,0 +1,14 @@
+:root {
+    /* Layout */
+    --layout-padding: 1.25rem;
+    --site-width: 1fr;
+    --l: 1060px;
+    --m: 860px;
+    --s: 600px;
+
+    /* PALLETE */
+    --clr1: #394867;
+    --clr2: #9BA4B5;
+    --clr3: #212A3E;
+    --clr4: #F1F6F9;
+}

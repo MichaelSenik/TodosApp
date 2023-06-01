@@ -1,0 +1,17 @@
+.todos-container {
+    padding-block-start: 2em;
+    padding-block-end: 2em;
+}
+
+.todos-container h1 {
+    margin-block-end: .5em;
+}
+
+.todos-container .btn-add-todo {
+    margin-block-end: 1em;
+}
+
+.my-todos {
+    /* display: grid; */
+    margin: 0 auto;
+}

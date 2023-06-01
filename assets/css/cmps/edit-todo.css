@@ -1,0 +1,18 @@
+.todo-edit {
+    margin: 0 auto;
+    margin-block-start: 2em;
+}
+
+.todo-edit h2 {
+    margin-block-end: 1em;
+}
+
+.todo-edit #txt {
+    padding-inline: 1em;
+    padding-block: .9em;
+    margin-inline-end: 1.5em;
+}
+
+.todo-edit form {
+    margin-block-end: 1em;
+}

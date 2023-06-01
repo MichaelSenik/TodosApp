@@ -1,0 +1,49 @@
+.todos-filter .btn-search {
+    margin-inline-start: 1.5em;
+    padding-block: .8em;
+    padding-inline: .9em;
+    border-radius: .4em;
+    font-family: Roboto-Medium;
+}
+
+.todos-filter input {
+    padding-block: .8em;
+    padding-inline: .9em;
+    border-radius: .4em;
+    margin-block-end: 1em;
+    width: 25em;
+    font-family: Roboto-Regular-Italic;
+}
+
+.todos-filter form {
+    margin-block: .5em;
+}
+
+.btns-filter-container {
+    margin-block-end: 1em;
+}
+
+.btns-filter-container button {
+    margin-inline-end: .5em;
+    padding-block: .5em;
+}
+
+.todos-sort {
+    margin-inline-start: 1em;
+}
+
+.descending-sort {
+    max-width: 7em;
+}
+
+.descending-sort input {
+    margin-block-start: 1em;
+}
+
+.sort-type {
+    padding-block: .45em;
+    padding-inline: .1em;
+    border: none;
+    border-radius: 0.3em;
+    font-family: Roboto-Regular-Italic;
+}
