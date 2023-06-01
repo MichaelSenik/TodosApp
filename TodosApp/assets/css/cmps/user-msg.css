@@ -1,0 +1,27 @@
+.user-msg {
+    display: flex;
+    align-items: center;
+    background-color: lightgray;
+    padding: 1em;
+    padding-inline-end: 3em;
+    position: absolute;
+    bottom: 8em;
+    right: 1em;
+    color: var(--clr4);
+}
+
+.user-msg.success {
+    background-color: var(--clr1);
+}
+
+.user-msg.error {
+    background-color: var(--clr1);
+}
+
+
+.user-msg button {
+    float: right;
+    margin: 1em;
+    background-color: var(--clr4);
+    color: var(--clr1);
+}

@@ -1,0 +1,8 @@
+.todo-preview {
+    margin-inline-end: .5em;
+}
+
+.todo-preview input {
+    margin-inline-end: .3em;
+    margin-block-end: .3em;
+}

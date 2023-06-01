@@ -1,0 +1,27 @@
+header {
+    background-color: var(--clr3);
+    color: var(--clr4);
+    padding-block: 1.5em;
+}
+
+nav a:not(:last-child) {
+    margin-inline-end: .9em;
+}
+
+nav a:active {
+    /* color: purple; */
+}
+
+nav a.active {
+    color: var(--clr4);
+    font-family: Roboto-Bold;
+    text-decoration: overline;
+}
+
+.user-info span {
+    margin-inline-start: 1em;
+}
+
+.user-info button {
+    margin-inline-start: 1em;
+}
